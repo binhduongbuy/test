@@ -1,0 +1,17 @@
+siteTitle = 'Điểm Tâm Bình Dương'
+siteDescr = 'Teen Bình Dương, Teen Việt Nam'
+siteDescription = "Cùng tới với chúng tôi, vui vẻ cùng 4teenviet."
+siteUrl = "http://donhamoi.com"
+siteBandcampUrl = 'http://donhamoi.com'
+siteMenuOne = 'Món Ngon'
+siteMenuTwo = 'Quán Ăn'
+siteMenuThree = 'Thức Uống'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/OdayakaPhuQuoc'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/OdayakaPhuQuoc'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
+
+linkPrefix = '/'
