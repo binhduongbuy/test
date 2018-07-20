@@ -1,11 +1,9 @@
-# Món đồ cần mua
+# Điểm Tâm Bình Dương
+Điểm Tâm Bình Dương http://henhobinhduong.com
 
-Trang này của Phạm Xuân Tiếp, trang cá nhân tổng hợp đồ cần mua.
+# Đơn vị phát triển
 
-# Nhóm phát triển
-
-- Odayaka Web & Advertising
-- Frameworks Bakadono
-- xuantiep.pham@gmail.com
-- whenforme@gmail.com
-- 0899150055
+Doanh nghiệp tư nhân Trương Dũng
+- phụ trách Frameworks binhduongbuy
+- binhduongbuy1@gmail.com
+- Trương Dũng
