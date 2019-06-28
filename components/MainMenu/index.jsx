@@ -20,7 +20,7 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/releases/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/releases/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconReleases) }/>
-                    <span className='mainmenu__link-name'>Món Ngon</span>
+                    <span className='mainmenu__link-name'>Quán Uống</span>
                     <Ink />
                 </Link> 
 
@@ -32,7 +32,7 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/events/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/events/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconEvents) }/>
-                    <span className='mainmenu__link-name'>Thức Uống</span>
+                    <span className='mainmenu__link-name'>Quán Đẹp</span>
                     <Ink />
                 </Link> 
 
