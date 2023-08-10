@@ -1,5 +1,5 @@
 # Điểm Tâm Bình Dương
-Điểm Tâm Bình Dương http://henhobinhduong.com
+Điểm Tâm Bình Dương http://tourismy.info
 
 # Đơn vị phát triển
 
